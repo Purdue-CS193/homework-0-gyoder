@@ -11,7 +11,7 @@ things i like about cs193
 
 here is a funny drawing of a rabbit
 
-![rabbit.png]
+![funky drawing of a rabbit](rabbit.png)
 
 
 yeah so thats kinda what i got so far. idk thanks for reading to the end
